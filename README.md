@@ -12,3 +12,4 @@ My devops and cloud learning journey
 -kubernetes[]
 -ci/cd[]
 -devsecops[]
+Day 1 [done]
