@@ -12,5 +12,9 @@ Day 1 Set up
 -rm
 -cat
 -echo
--vi
+-vi --> i -->edit the text --> esc --> :wq(save and quit)
+-vi --> i -->edit the text --> esc --> :q! (quit without saving)
+
+
+
 
