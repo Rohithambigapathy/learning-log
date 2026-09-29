@@ -14,4 +14,7 @@ My devops and cloud learning journey
 -devsecops[]
 
 
-Day 1 [done]
+Day 1 : linux/day1.md
+Day 2 : linux/day2.md
+
+
