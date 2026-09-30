@@ -9,6 +9,7 @@ ps = snapshot, ps -ef = detailed snapshot, ps aux = resource snapshot, top = liv
 sleep 
 ps aux | grep sleep
 kill <PID>
+kill -9 <pid>
 cd /var/log
 grip -i "error" logname
 tail -20 syslog
